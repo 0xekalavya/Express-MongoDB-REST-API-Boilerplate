@@ -3,7 +3,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Express](https://img.shields.io/badge/Express.js-Framework-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 A clean, scalable, and production-ready REST API boilerplate built with **Express.js** and **Mongoose**.
 
