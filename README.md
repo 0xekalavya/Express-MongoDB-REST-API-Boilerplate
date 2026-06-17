@@ -106,4 +106,4 @@ Open an issue
 Discuss first
 Then submit PR 
 
-<p align="center"> Built with ❤️ by <a href="https://github.com/0xekalavya">@ekalavya</a> </p> 
+<p align="center"> Built with ❤️ by <a href="https://github.com/tojixavirav">@tojixavirav</a> </p> 
